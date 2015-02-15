@@ -1,5 +1,3 @@
-Gabriel's Rail App
-
 # Instructions
 
 This rails app is meant to help people get a feel for basic static pages.  The
