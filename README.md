@@ -31,7 +31,6 @@ Google is also your best friend.  Also there is a few questions on the form to a
   These h1 and h3 tags signifies headers.  They contain the text that appears on your
   banner.  Update these to something fun as well.
 
-
 ## Your favorite Animal:
   Did you notice that little cat at the bottom of the page?  Well since it is your page you should update
   it to your favorite animal.  First let's find the h2 tag in the Home page and change the contents of it
